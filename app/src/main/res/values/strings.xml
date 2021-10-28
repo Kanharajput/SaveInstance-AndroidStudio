@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TwoActivity</string>
+    <string name="Send_button">Send</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="second_activity_text">Message Received</string>
+    <string name="hint_for_insertion">Enter text you want to</string>
+    <string name="over_secondAcButton">send_from2</string>
+    <string name="reply_text">Enter your reply here</string>
+    <string name="headerForActivity1">Message sent by Activity 2</string>
+    <string name="replyButton">Reply</string>
+</resources>
